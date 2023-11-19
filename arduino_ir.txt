@@ -22,3 +22,11 @@ void loop()
         Serial.println("Object not detected");
     }
 }
+
+
+#out-13
+cathode-gnd
+anode-8
+
+
+#
