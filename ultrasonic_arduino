@@ -38,3 +38,16 @@ void loop()
         delay(200);
     }
 }
+
+
+#(Ultrasonic Sensor VCC -> 5V on Arduino
+
+Ultrasonic Sensor GND -> GND on Arduino
+
+Ultrasonic Sensor Trig -> Pin 9 on Arduino
+
+Ultrasonic Sensor Echo -> Pin 11 on Arduino
+
+LED Anode -> Pin 12 on Arduino
+
+LED Cathode (via Resistor) -> GND on Arduino)
