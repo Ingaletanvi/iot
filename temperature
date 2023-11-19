@@ -17,6 +17,11 @@ void loop()
     delay(1000);
 }
 
+
+#vcc - 5v
+gnd - gnd
+data - pin4 
+
 with Rasberry print
 import Adafruit_DHT
 import time
